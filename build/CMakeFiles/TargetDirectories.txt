@@ -1,3 +1,0 @@
-/home/robond/proj-1/build/CMakeFiles/edit_cache.dir
-/home/robond/proj-1/build/CMakeFiles/rebuild_cache.dir
-/home/robond/proj-1/build/CMakeFiles/greeting.dir

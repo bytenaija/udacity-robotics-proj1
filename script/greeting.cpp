@@ -6,6 +6,7 @@ namespace gazebo
   {
     public: WorldPluginProjOne() : WorldPlugin()
             {
+              printf("Welcome to Everistus' World\n");
               printf("Greetings human! I come in peace\n");
             }
 
